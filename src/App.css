@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-image: url("https://image.freepik.com/free-vector/digital-binary-code-algorithm-stream-matrix-background_1017-25328.jpg");
+  height: 788px;
+  background-size: cover;
 }
 
 .App-logo {

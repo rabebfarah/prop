@@ -7,7 +7,7 @@ import {IconContext} from "react-icons"
 const Profile = ({ data }) => {
       
       const handelName = (fullName) => {alert(`Hello I am ${fullName}`);
-     
+            
 };
       return ( 
       
